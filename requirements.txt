@@ -1,0 +1,7 @@
+numpy
+pyaudio
+faster-whisper
+torch
+transformers
+sentencepiece
+scipy
