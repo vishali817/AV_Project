@@ -31,3 +31,8 @@ ENV/
 
 # Environment variables
 .env
+
+.venv/
+debug_mouth.avi
+lipnet_weights.pth
+logs/

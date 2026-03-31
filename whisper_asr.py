@@ -88,5 +88,5 @@ class WhisperASR:
         return {
             "text": text_str,
             "segments": segment_details,
-            "confidence": avg_prob
+            "asr_confidence": avg_prob
         }

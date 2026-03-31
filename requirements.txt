@@ -5,3 +5,9 @@ torch
 transformers
 sentencepiece
 scipy
+opencv-python
+librosa
+soundfile
+requests
+psutil
+mediapipe
